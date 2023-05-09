@@ -1,0 +1,49 @@
+body{
+
+    font-size: 14px;
+    background-color: #C5D7F9;
+    font-family: Cambria;
+}
+
+.Title{
+
+    color: #9D567F;
+    text-align: center;
+}
+
+.Chapter{
+
+    color: #969072;
+    text-align: center;
+}
+
+.Main_Text{
+
+    color: #000;
+    font-size: 1rem;
+}
+
+
+.Stack_Main_Text li{
+
+    
+    display: inline-block;
+    text-align: left;
+    width: 98%;
+    height: 20%;
+
+}
+
+.Important{
+
+    padding-left: 20px;
+    font-size: 1.2rem;
+    color: #2a0676;
+}
+
+.End_Text{
+
+    color: #000;
+    font-size: 1.1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
